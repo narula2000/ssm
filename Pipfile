@@ -12,6 +12,7 @@ scipy = "*"
 seaborn = "*"
 autopep8 = "*"
 imageio = "*"
+tqdm = "*"
 
 [dev-packages]
 
