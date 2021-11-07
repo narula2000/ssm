@@ -13,6 +13,8 @@ seaborn = "*"
 autopep8 = "*"
 imageio = "*"
 tqdm = "*"
+opencv-python = "*"
+obspy = "*"
 
 [dev-packages]
 
